@@ -5,4 +5,4 @@ instructions and ingredients required to make the dish.
 
 # Web View
 
-- [Try Recipes List here!](https://milbar.github.io/odin-recipes/){:target="_blank"}
+- [Try Recipes List here!](https://milbar.github.io/odin-recipes/)
